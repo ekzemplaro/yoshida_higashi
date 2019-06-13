@@ -1,0 +1,52 @@
+{
+  "date": "2019-2-22",
+  "first": [
+    {
+      "title": "十二支のはじまり",
+      "author": "岩岡 京子",
+      "picture": "二俣 英五郎"
+    }
+  ],
+  "second": [
+    {
+      "title": "かさじぞう",
+      "author": "瀬田 貞二",
+      "picture": "赤羽 末吉"
+    },
+    {
+      "title": "くまのビーディーくん",
+      "author": "ドン・フリーマン",
+      "picture": "ドン・フリーマン",
+      "translator": "まつおか きょうこ"
+    }
+  ],
+  "third": [
+    {
+      "title": "かたあしだちょうのエルフ",
+      "author": "おのき がく",
+      "picture": "おのき がく"
+    }
+  ],
+  "fourth": [
+    {
+      "title": "パンのかけらとちいさなあくま",
+      "author": "内田 莉莎子",
+      "picture": "堀内 誠一"
+    }
+  ],
+  "fifth": [
+    {
+      "title": "ねずみのよめいり",
+      "author": "山下 明生",
+      "picture": "しまだ しほ"
+    }
+  ],
+  "sixth": [
+    {
+      "title": "さいごの一葉",
+      "author": "オー・ヘンリー",
+      "picture": "いもと ようこ",
+      "translator": "いもと ようこ"
+    }
+  ]
+}

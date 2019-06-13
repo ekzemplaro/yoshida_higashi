@@ -1,0 +1,75 @@
+{
+  "date": "2019-3-13",
+  "first": [
+    {
+      "title": "どれがぼくかわかる？",
+      "author": "カーラ・カスキン",
+      "picture": "",
+      "translator": "与田静"
+    },
+    {
+      "title": "おおきくなるっていうことは",
+      "author": "中川 ひろたか",
+      "picture": "村上 康成",
+      "translator": ""
+    }
+  ],
+  "second": [
+    {
+      "title": "すてきな三にんぐみ",
+      "author": "トミー・アンゲラー",
+      "picture": "",
+      "translator": "今江祥智"
+    },
+    {
+      "title": "ゼラルダと人喰い鬼",
+      "author": "トミー・ウンゲラー",
+      "picture": "",
+      "translator": "田村 隆一,麻生 九美"
+    }
+  ],
+  "third": [
+    {
+      "title": "わすれられないおくりもの",
+      "author": "スーザン・バーレイ",
+      "picture": "",
+      "translator": "小川 仁央"
+    },
+    {
+      "title": "たっちゃんぼくがきらいなの",
+      "author": "さとうとしなお",
+      "picture": "みやもとただお",
+      "translator": ""
+    }
+  ],
+  "fourth": [
+    {
+      "title": "ねえ、どれがいい？",
+      "author": "ジョン・バーニンガム",
+      "picture": "",
+      "translator": "松川 真弓"
+    },
+    {
+      "title": "くわずにょうぼう",
+      "author": "稲田 和子",
+      "picture": "赤羽 末吉",
+      "translator": ""
+    }
+  ],
+  "fifth": [
+    {
+      "title": "えほん遠野物語　まよいが",
+      "author": "京極夏彦,柳田国男原作",
+      "picture": "近藤薫美子",
+      "translator": ""
+    }
+  ],
+  "sixth": [
+    {
+      "title": "きみの行く道",
+      "author": "ドクター・スース",
+      "picture": "",
+      "translator": "伊藤比呂美"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "date": "2018-10-10",
+  "first": [
+    {
+      "title": "ダンデライオン",
+      "author": "ドン・フリーマン",
+      "picture": "",
+      "translator": "アーサー・ビナード"
+    },
+    {
+      "title": "げたにばける",
+      "author": "新美南吉",
+      "picture": "西村敏雄"
+    }
+  ],
+  "second": [
+    {
+      "title": "ゆらゆらばしのうえで",
+      "author": "木村ゆういち",
+      "picture": "はたこうしろう"
+    },
+    {
+      "title": "ぼくのえんそく",
+      "author": "穂高順也",
+      "picture": "長谷川義史"
+    }
+  ],
+  "third": [
+    {
+      "title": "おばけリンゴ",
+      "author": "ヤーノシュ",
+      "picture": "",
+      "translator": "やがわすみこ"
+    }
+  ],
+  "fourth": [
+    {
+      "title": "すがたをかえるたべものしゃしんえほん<br />チョコレートができるまで",
+      "author": "宮崎祥子",
+      "picture": "白松清之"
+    }
+  ],
+  "fifth": [
+    {
+      "title": "綱渡りの男",
+      "author": "モーディカイ・ガースティン",
+      "picture": "",
+      "translator": "川本三郎"
+    }
+  ],
+  "sixth": [
+    {
+      "title": "あたまにつまった石ころが",
+      "author": "キャロル・オーティス・ハースト",
+      "picture": "ジェイムズ・スティーブンソン",
+      "translator": "千葉茂樹"
+    }
+  ]
+}

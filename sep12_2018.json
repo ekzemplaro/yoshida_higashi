@@ -1,0 +1,63 @@
+{
+  "date": "2018-9-12",
+  "first": [
+    {
+      "title": "ももたろう",
+      "author": "松居直",
+      "picture": "赤羽末吉",
+      "translator": ""
+    }
+  ],
+  "second": [
+    {
+      "title": "ねずみのいもほり",
+      "author": "山下明生",
+      "picture": "いわむらかずお",
+      "translator": ""
+    },
+    {
+      "title": "たまごにいちゃん",
+      "author": "あきやまただし",
+      "picture": "あきやまただし",
+      "translator": ""
+    }
+  ],
+  "third": [
+    {
+      "title": "どんぐりかいぎ",
+      "author": "こうやすすむ",
+      "picture": "片山健",
+      "translator": ""
+    }
+  ],
+  "fourth": [
+    {
+      "title": "落語絵本　ばけものつかい",
+      "author": "川端誠",
+      "picture": "川端誠",
+      "translator": ""
+    },
+    {
+      "title": "他",
+      "author": "",
+      "picture": "",
+      "translator": ""
+    }
+  ],
+  "fifth": [
+    {
+      "title": "森のおくから",
+      "author": "レベッカ・ボンド",
+      "picture": "",
+      "translator": "もりうちすみこ"
+    }
+  ],
+  "sixth": [
+    {
+      "title": "せかいいち　おいしい　スープ",
+      "author": "マーシャ・ブラウン",
+      "picture": "マーシャ・ブラウン",
+      "translator": "こみやゆう"
+    }
+  ]
+}

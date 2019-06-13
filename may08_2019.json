@@ -1,0 +1,69 @@
+{
+  "date": "2019-5-8",
+  "first": [
+    {
+      "title": "よかったねネッドくん",
+      "author": "レミー・シャーリップ",
+      "picture": "",
+      "translator": "やぎたよしこ"
+    },
+    {
+      "title": "きょうりゅうのおおきさ",
+      "author": "冨田 幸光",
+      "picture": "",
+      "translator": ""
+    }
+  ],
+  "second": [
+    {
+      "title": "わらしべちょうじゃ",
+      "author": "植垣 歩子",
+      "picture": "",
+      "translator": ""
+    },
+    {
+      "title": "くまのコールテンくん",
+      "author": "ドン・フリーマン",
+      "picture": "",
+      "translator": "松岡 享子"
+    }
+  ],
+  "third": [
+    {
+      "title": "うさぎのくれたバレエシュ－ズ",
+      "author": "安房 直子",
+      "picture": "南塚 直子",
+      "translator": ""
+    },
+    {
+      "title": "おこる",
+      "author": "中川 ひろたか",
+      "picture": "長谷川 義史",
+      "translator": ""
+    }
+  ],
+  "fourth": [
+    {
+      "title": "ぼくのママはうんてんし",
+      "author": "おおとも やすお",
+      "picture": "",
+      "translator": ""
+    }
+  ],
+  "fifth": [
+    {
+      "title": "きんいろのきつね",
+      "author": "大川 悦生",
+      "picture": "赤羽 末吉",
+      "translator": ""
+    }
+  ],
+  "sixth": [
+    {
+      "title": "さいごの一葉",
+      "author": "オー・ヘンリー",
+      "picture": "いもと ようこ",
+      "translator": "いもと ようこ"
+    }
+  ]
+}

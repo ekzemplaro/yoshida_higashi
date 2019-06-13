@@ -1,0 +1,68 @@
+{
+  "date": "2019-2-13",
+  "first": [
+    {
+      "title": "どうぶつの赤ちゃん　ライオン",
+      "author": "増井光子",
+      "picture": "",
+      "translator": ""
+    },
+    {
+      "title": "ひとりになったライオン",
+      "author": "夏目義一",
+      "picture": "夏目義一",
+      "translator": ""
+    }
+  ],
+  "second": [
+    {
+      "title": "おしゃべりなたまごやき",
+      "author": "寺村輝夫",
+      "picture": "長新太",
+      "translator": ""
+    }
+  ],
+  "third": [
+    {
+      "title": "いのちのまつり",
+      "author": "草場一壽",
+      "picture": "平安座資尚",
+      "translator": ""
+    },
+    {
+      "title": "どんなかんじかなあ",
+      "author": "中山千夏",
+      "picture": "和田誠",
+      "translator": ""
+    }
+  ],
+  "fourth": [
+    {
+      "title": "雪の結晶ノート",
+      "author": "マーク・カッシーノ, ジョン・ネルソン",
+      "picture": "",
+      "translator": "千葉茂樹"
+    },
+    {
+      "title": "ゆうかんなアイリーン",
+      "author": "ウィリアム・スタイグ",
+      "picture": "",
+      "translator": "おがわえつこ"
+    }
+  ],
+  "fifth": [
+    {
+      "title": "しにがみさん",
+      "author": "野村 たかあき",
+      "picture": "野村 たかあき"
+    }
+  ],
+  "sixth": [
+    {
+      "title": "西風号の遭難",
+      "author": "C.V.オールズバーグ",
+      "picture": "C.V.オールズバーグ",
+      "translator": "村上春樹"
+    }
+  ]
+}

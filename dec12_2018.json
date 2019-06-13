@@ -1,0 +1,65 @@
+{
+  "date": "2018-12-12",
+  "first": [
+    {
+      "title": "ピーターのくちぶえ",
+      "author": "エズラ・ジャック・キーツ",
+      "picture": "",
+      "translator": "きじま　はじめ"
+    },
+    {
+      "title": "いじわるシャルル",
+      "author": "ステファニー・ブレイク",
+      "picture": "",
+      "translator": "ふしみ　みさお"
+    }
+  ],
+  "second": [
+    {
+      "title": "ハリネズミと金貨",
+      "author": "ウラジーミル・オルロフ",
+      "picture": "ヴァレンチン・オリシヴァング",
+      "translator": "田中　潔"
+    }
+  ],
+  "third": [
+    {
+      "title": "あのね、サンタの国ではね ...",
+      "author": "嘉納　純子",
+      "picture": "黒井　健"
+    }
+  ],
+  "fourth": [
+    {
+      "title": "びんぼうがみとふくのかみ",
+      "author": "富安　陽子",
+      "picture": "飯野　和好"
+    },
+    {
+      "title": "十二支のはじまり",
+      "author": "谷　真介",
+      "picture": "赤坂　三好"
+    }
+  ],
+  "fifth": [
+    {
+      "title": "吸光急行『北極号』",
+      "author": "C.V.オールズバーグ",
+      "picture": "C.V.オールズバーグ",
+      "translator": "村上　春樹"
+    }
+  ],
+  "sixth": [
+    {
+      "title": "雪の結晶ノート",
+      "author": "マーク・カッシーノ, ジョン・ネルソン",
+      "picture": "",
+      "translator": "千葉　茂樹"
+    },
+    {
+      "title": "ひゃくおくまんのサンタクロース",
+      "author": "もたい　ひろこ",
+      "picture": "マリカ・マイヤラ"
+    }
+  ]
+}
